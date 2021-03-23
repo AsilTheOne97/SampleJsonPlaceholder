@@ -1,15 +1,15 @@
 {
     "users": [
         {
-            "id":"1",
+            "id": 1,
             "name":"Asil"
         },
         {
-            "id":"2",
+            "id": 2,
             "name":"Messi"
         },
         {
-            "id":"3",
+            "id": 3,
             "name":"Ronaldo"
         }
 
@@ -17,19 +17,19 @@
 
     "posts": [
         {
-            "id":"1",
+            "id": 1,
             "title":"My first"
         },
         {
-            "id":"2",
+            "id": 2,
             "title":"news post"
         },
         {
-            "id":"3",
+            "id": 3,
             "title":"get along"
         },
         {
-            "id":"4",
+            "id": 4,
             "title":"the walpaper"
         }
 
