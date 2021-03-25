@@ -33,6 +33,79 @@
             "title":"the walpaper"
         }
 
+    ],
+
+    "discounts": [
+        {
+            "id":1,
+            "name":"Black sales",
+            "type":"quantity based",
+            "start_date":"2021-06-30",
+            "end_date":"2021-07-15"
+        },
+        {
+            "id":2,
+            "name":"Unit sales",
+            "type":"quantity based",
+            "start_date":"2021-06-30",
+            "end_date":"2021-07-15"
+        },
+        {
+            "id":3,
+            "name":"Aluminium sales",
+            "type":"quantity based",
+            "start_date":"2021-06-30",
+            "end_date":"2021-07-15"
+        },
+        {
+            "id":4,
+            "name":"PVC sales",
+            "type":"quantity based",
+            "start_date":"2021-06-30",
+            "end_date":"2021-07-15"
+        },
+        {
+            "id":5,
+            "name":"affordable sales",
+            "type":"quantity based",
+            "start_date":"2021-06-30",
+            "end_date":"2021-07-15"
+        },
+        {
+            "id":6,
+            "name":"reactive sales",
+            "type":"quantity based",
+            "start_date":"2021-06-30",
+            "end_date":"2021-07-15"
+        },
+        {
+            "id":7,
+            "name":"Last sales",
+            "type":"quantity based",
+            "start_date":"2021-06-30",
+            "end_date":"2021-07-15"
+        },
+        {
+            "id":8,
+            "name":"rich sales",
+            "type":"quantity based",
+            "start_date":"2021-06-30",
+            "end_date":"2021-07-15"
+        },
+        {
+            "id":9,
+            "name":"getting cheaper sales",
+            "type":"quantity based",
+            "start_date":"2021-06-30",
+            "end_date":"2021-07-15"
+        },
+        {
+            "id":10,
+            "name":"buying dream sales",
+            "type":"quantity based",
+            "start_date":"2021-06-30",
+            "end_date":"2021-07-15"
+        }
     ]
 
 }
